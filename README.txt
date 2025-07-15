@@ -35,4 +35,4 @@ It can erase personal data
 
 It embeds itself into Windows startup for persistence
 
-                                              Write in PoxerSell and convert to .exe*
+                                              Write in PowerShell and convert to .exe*
