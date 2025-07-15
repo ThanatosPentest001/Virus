@@ -1,1 +1,1 @@
-READ THE .txt FILE !
+READ THE .txt FILE IN THE "RAW" MODE !
