@@ -2,6 +2,7 @@ ATTENTION !!
 This malware delete all the user file (desktop, documents...etc) and he can prevent the PC from starting. It opens at every startup.
 Even "Ctrl+Alt+Supp" can't stop this malware !
 NEVER EXECUTE THIS PROGRAM ON YOUR COMPUTER !!
+DON'T CHANGE THE VIRUS NAME ( the script will not execute automatically at system startup. )
 
 “What can it do?" 
 
@@ -33,3 +34,5 @@ It disrupts normal mouse usage
 It can erase personal data
 
 It embeds itself into Windows startup for persistence
+
+                                              Write in PoxerSell and convert to .exe*
