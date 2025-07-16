@@ -1,3 +1,4 @@
+3/72 on Virus Total !
 ATTENTION !!
 This malware delete all the user file (desktop, documents...etc) and he can prevent the PC from starting. It opens at every startup.
 Even "Ctrl+Alt+Supp" can't stop this malware !
